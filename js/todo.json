@@ -1,0 +1,32 @@
+[
+    {
+        "key": 1,
+        "selected": true,
+        "text": "Study React"
+    },
+    {
+        "key": 2,
+        "selected": false,
+        "text": "Make Todo App"
+    },
+    {
+        "key": 3,
+        "selected": false,
+        "text": "Show to Siddhartha"
+    },
+    {
+        "key": 1.45225302817e+12,
+        "selected": false,
+        "text": "Go Home"
+    },
+    {
+        "key": 1.45225308584e+12,
+        "selected": false,
+        "text": "Enjoy"
+    },
+    {
+        "key": 1.45226434337e+12,
+        "selected": true,
+        "text": "sleep"
+    }
+]
